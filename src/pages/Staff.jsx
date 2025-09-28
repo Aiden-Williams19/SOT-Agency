@@ -3,9 +3,9 @@ import './pages.css'
 
 // Source of truth for displayed team members
 const team = [
-  { name: 'Alex Carter', role: 'Senior Web Developer', bio: 'Frontend architecture, performance, and DX.', skills: ['React', 'TypeScript', 'Vite'], image: 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&w=600&auto=format&fit=crop' },
-  { name: 'Jordan Lee', role: 'Web Developer', bio: 'Interfaces that feel fast and intuitive.', skills: ['UI', 'CSS', 'Accessibility'], image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=600&auto=format&fit=crop' },
-  { name: 'Sam Rodriguez', role: 'Filmmaker / Editor / Photographer', bio: 'Storytelling through moving and still images.', skills: ['Directing', 'Editing', 'Photography'], image: 'https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=600&auto=format&fit=crop' },
+  { name: 'Aiden Williams', role: 'Senior Web Developer', bio: 'Frontend architecture, performance, and DX.', skills: ['React', 'TypeScript', 'Vite'], image: 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&w=600&auto=format&fit=crop' },
+  { name: 'Daniel Guezo', role: 'Web Developer', bio: 'Interfaces that feel fast and intuitive.', skills: ['UI', 'CSS', 'Accessibility'], image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=600&auto=format&fit=crop' },
+  { name: 'Jefte Mulamba', role: 'Filmmaker / Editor / Photographer', bio: 'Storytelling through moving and still images.', skills: ['Directing', 'Editing', 'Photography'], image: 'https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=600&auto=format&fit=crop' },
 ]
 
 function Staff() {
